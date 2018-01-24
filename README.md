@@ -1,2 +1,3 @@
-# shmuelhonig
-My GitHub Website
+# Shmuel Honig
+## My GitHub Website
+https://shmuelhonig.github.io/shmuelhonig/
